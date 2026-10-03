@@ -21,6 +21,12 @@ I build AI-assisted web and Android prototypes and create generative-AI visuals.
 
 These are development projects, not claims of production deployment or professional legal, tax or medical advice. Setup, model access and deployment status vary by project.
 
+## Local-first tools
+Small AI-assisted prototypes that run locally. They are template-based (no LLM calls, no API keys) and meant as simple starting points.
+- [Prompt Desk](https://github.com/rahuluproi-netizen/prompt-desk): offline prompt builder with creative templates, local draft storage and text export.
+- [Storyboard Kit](https://github.com/rahuluproi-netizen/storyboard-kit): offline shot planner with character locks and timed prompts for AI-video workflows.
+- [Job Kit](https://github.com/rahuluproi-netizen/job-kit): local Python cover-letter draft helper and CSV application tracker. No email access or auto-send.
+
 ## Technologies used in my repositories
 **Web:** TypeScript, JavaScript, React, Next.js, Vite, Tailwind CSS, Express  
 **AI integration:** Gemini, OpenAI API, LangChain, prompt templates, structured outputs and retrieval workflows  
