@@ -1,16 +1,35 @@
-## Hi there 👋
+# Rahul Kumar
+### AI Prompt Engineer · AI App Builder
 
-<!--
-**rahuluproi-netizen/rahuluproi-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI-assisted web and Android prototypes and create generative-AI visuals. My work connects structured prompts, APIs and practical user interfaces.
 
-Here are some ideas to get you started:
+[Creative portfolio](https://rahul-kumar-ai-portfolio.netlify.app/) · [Email](mailto:rk96325874@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I build
+- AI applications: document-based Q&A and structured-output assistants.
+- Web tools: dashboards, invoice utilities and marketplace prototypes.
+- Mobile experiments: React interfaces packaged for Android with Capacitor.
+- Creative AI: illustration, video concepts and prompt-driven storytelling.
+
+## Selected projects
+| Project | What the code explores | Stack |
+| --- | --- | --- |
+| [TaxBot](https://github.com/rahuluproi-netizen/taxbot) | PDF ingestion, vector retrieval and Gemini answers for a tax-assistance prototype | Next.js, Express, Gemini, Pinecone, Supabase |
+| [Legal Dost interface](https://github.com/rahuluproi-netizen/legal-dost) + [backend](https://github.com/rahuluproi-netizen/legaldost) | Constitutional-information UI, local text lookup and structured LLM responses | React, Vite, Capacitor, Express, LangChain, Zod |
+| [Invoice utility](https://github.com/rahuluproi-netizen/nie) | Editable invoices, saved form state and PDF export | React, TypeScript, Zustand, jsPDF |
+| [Nexus](https://github.com/rahuluproi-netizen/nexus) | Digital marketplace, file delivery and order-flow experimentation | Next.js, TypeScript, Prisma, PostgreSQL, Clerk |
+
+These are development projects, not claims of production deployment or professional legal, tax or medical advice. Setup, model access and deployment status vary by project.
+
+## Technologies used in my repositories
+**Web:** TypeScript, JavaScript, React, Next.js, Vite, Tailwind CSS, Express  
+**AI integration:** Gemini, OpenAI API, LangChain, prompt templates, structured outputs and retrieval workflows  
+**Data and apps:** Prisma, PostgreSQL, Supabase, Pinecone, Capacitor
+
+## Prompt and creative work
+My background includes AI illustration at Jaipuria School Office and a prompt-engineering internship at UPROI Digital. I use Claude, ChatGPT and Gemini for creative and technical iteration. My creative portfolio contains illustration and video samples.
+
+## Current focus
+Making my prototypes easier to run, documenting their limits, and improving validation and tests. I also work on Python automation experiments; source for those projects is currently private.
+
+Based in Delhi, India. Open to AI prompt-engineering, AI application and creative-AI opportunities.
